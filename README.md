@@ -28,6 +28,4 @@ No frameworks or libraries required
 Pull requests are welcome! Feel free to fork this repo, make improvements, and share your version.
 
 📧 Contact
-
-Muhammad Usman
 📩 mrusmanpirzada@gmail.com
