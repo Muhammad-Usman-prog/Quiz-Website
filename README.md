@@ -1,4 +1,4 @@
-🎯 Quiz Website with Countdown Timer
+🎯Quiz Website with Countdown Timer
 
 A responsive and interactive quiz web app built with HTML, CSS, and JavaScript.
 Users can attempt multiple-choice questions, race against a countdown timer, and view their final score instantly. Designed to be simple, fast, and fun — perfect for both learning and entertainment.
